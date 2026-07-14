@@ -7,5 +7,5 @@
 
 * 📁 **`bug-reports/`** — баг-репорты по сайту `https://ts.red-promo.ru/`
 * 📄 **`checklist.md`** — чек-лист для проверки почтового сервиса Mail.ru
-* 📄 **`test-suite.md`** — тестовый набор (Test Suite) для Mail.ru
+* 📄 **`test-suite.md`** — тестовый набор для Mail.ru
 * 📄 **`test-cases.md`** — тест-кейсы для функционала Mail.ru
